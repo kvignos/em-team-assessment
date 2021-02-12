@@ -1,4 +1,4 @@
-# em-assessment
+# em-team-assessment
 A series of questions designed to help an engineering manager assess a team.
 
 Whether you've just inherited a team of engineers, or have been working with a team for a while and want to help transform it into a higher performing team, the questions below are intended to help you dive in to discover the strengths, weaknesses and opportunities for improvement.
