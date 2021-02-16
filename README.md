@@ -3,7 +3,7 @@ A series of questions designed to help an engineering manager assess a team.
 
 Whether you've just inherited a team of engineers, or have been working with a team for a while and want to help transform it into a higher performing team, the questions below are intended to help you dive in to discover the strengths, weaknesses and opportunities for improvement.
 
-What else do you assess? Contribute to the conversation here [on Twitter](https://twitter.com/TODO) or submit a pull request.
+What else do you assess? Contribute to the conversation here [on Twitter](https://twitter.com/kathleencodes/status/1361438850346668038?s=20) or submit a pull request.
 
 ## People and Team Development
 * Are team members at the right level in role?
